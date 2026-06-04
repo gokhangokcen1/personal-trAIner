@@ -1,6 +1,12 @@
 # personal-trAIner
 Egzersiz esnasında kişinin formunu takip eden ve sesli uyarı veren bir AI kişisel antrenör. 
 
+[pull-up-tekrar-aci.webm](https://github.com/user-attachments/assets/f66e2119-6466-4357-8dea-d742a92c0300)
+
+
+
+
+
 # TO - DO 
 - [ ] `Classification:` Kişi harekete başladığında hangi harekete başlandığının tespiti
   - [ ] Fotoğraf üzerinde deneme
