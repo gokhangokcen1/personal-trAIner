@@ -1,7 +1,12 @@
 # personal-trAIner
 Egzersiz esnasında kişinin formunu takip eden ve sesli uyarı veren bir AI kişisel antrenör. 
 
+## Tekrar sayıcı
 [pull-up-tekrar-aci.webm](https://github.com/user-attachments/assets/f66e2119-6466-4357-8dea-d742a92c0300)
+
+# Hareket sınıflandırma 
+[egilme_tahmin.webm](https://github.com/user-attachments/assets/6d99fbf8-dd2d-4f1d-b231-04ce4e6ff939)
+
 
 
 
